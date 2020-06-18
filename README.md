@@ -13,7 +13,7 @@ Python 기반의 Selenium(feat: Chrome Driver)을 사용하여 인스타그램�
 ## Repository structure description
 
 1.practice
-- practice
+- 
 - 
 
 These instructions will get you a copy of the project up and running on
